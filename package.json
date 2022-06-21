@@ -1,6 +1,6 @@
 {
   "name": "rc-decorator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Props decorator to react components",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
